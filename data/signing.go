@@ -2,7 +2,7 @@ package data
 
 import (
 	"encoding/hex"
-	"github.com/rubblelabs/ripple/crypto"
+	"github.com/arthures11/ripple/crypto"
 	"sort"
 )
 

@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/rubblelabs/ripple/data"
-	"github.com/rubblelabs/ripple/terminal"
-	"github.com/rubblelabs/ripple/websockets"
+	"github.com/arthures11/ripple/data"
+	"github.com/arthures11/ripple/terminal"
+	"github.com/arthures11/ripple/websockets"
 )
 
 const usage = `Usage: offers [ripple address] [options]
